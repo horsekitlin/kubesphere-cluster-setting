@@ -1,0 +1,20 @@
+2025-01-23 11:05:35,934 INFO PERFORMANCE:|serviceCount|ipCount|subscribeCount|maxPushCost|avgPushCost|totalPushCount|failPushCount
+
+2025-01-23 11:05:35,952 INFO DISTRO:|V1SyncDone|V1SyncFail|V2SyncDone|V2SyncFail|V2VerifyFail|
+
+2025-01-23 11:05:35,975 INFO PERFORMANCE:|0|0|0|-1|-1|0|0
+
+2025-01-23 11:05:36,018 INFO Task worker status: 
+naming_0%1, pending tasks: 0
+
+
+2025-01-23 11:05:36,040 INFO DISTRO:|0|0|0|
+
+2025-01-23 11:06:36,141 INFO PERFORMANCE:|0|0|0|-1|-1|0|0
+
+2025-01-23 11:06:37,820 INFO Task worker status: 
+naming_0%1, pending tasks: 0
+
+
+2025-01-23 11:06:37,903 INFO DISTRO:|0|0|0|
+

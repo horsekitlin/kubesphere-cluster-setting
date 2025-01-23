@@ -1,0 +1,190 @@
+2025-01-22 19:28:20,752 INFO notifyConnectTimeout:100
+
+2025-01-22 19:28:20,761 INFO notifySocketTimeout:200
+
+2025-01-22 19:28:20,761 INFO isHealthCheck:true
+
+2025-01-22 19:28:20,761 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:28:20,761 INFO maxContent:10485760
+
+2025-01-22 19:31:57,277 INFO notifyConnectTimeout:100
+
+2025-01-22 19:31:57,302 INFO notifySocketTimeout:200
+
+2025-01-22 19:31:57,303 INFO isHealthCheck:true
+
+2025-01-22 19:31:57,303 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:31:57,303 INFO maxContent:10485760
+
+2025-01-22 19:37:26,065 INFO notifyConnectTimeout:100
+
+2025-01-22 19:37:26,069 INFO notifySocketTimeout:200
+
+2025-01-22 19:37:26,070 INFO isHealthCheck:true
+
+2025-01-22 19:37:26,070 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:37:26,070 INFO maxContent:10485760
+
+2025-01-22 19:37:52,020 INFO notifyConnectTimeout:100
+
+2025-01-22 19:37:52,026 INFO notifySocketTimeout:200
+
+2025-01-22 19:37:52,027 INFO isHealthCheck:true
+
+2025-01-22 19:37:52,027 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:37:52,027 INFO maxContent:10485760
+
+2025-01-22 19:38:16,228 INFO notifyConnectTimeout:100
+
+2025-01-22 19:38:16,238 INFO notifySocketTimeout:200
+
+2025-01-22 19:38:16,239 INFO isHealthCheck:true
+
+2025-01-22 19:38:16,239 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:38:16,239 INFO maxContent:10485760
+
+2025-01-22 19:38:41,822 INFO notifyConnectTimeout:100
+
+2025-01-22 19:38:41,825 INFO notifySocketTimeout:200
+
+2025-01-22 19:38:41,825 INFO isHealthCheck:true
+
+2025-01-22 19:38:41,825 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:38:41,825 INFO maxContent:10485760
+
+2025-01-22 19:39:05,024 INFO notifyConnectTimeout:100
+
+2025-01-22 19:39:05,031 INFO notifySocketTimeout:200
+
+2025-01-22 19:39:05,031 INFO isHealthCheck:true
+
+2025-01-22 19:39:05,031 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:39:05,031 INFO maxContent:10485760
+
+2025-01-22 19:39:27,967 INFO notifyConnectTimeout:100
+
+2025-01-22 19:39:27,979 INFO notifySocketTimeout:200
+
+2025-01-22 19:39:27,979 INFO isHealthCheck:true
+
+2025-01-22 19:39:27,979 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:39:27,979 INFO maxContent:10485760
+
+2025-01-22 19:39:53,206 INFO notifyConnectTimeout:100
+
+2025-01-22 19:39:53,215 INFO notifySocketTimeout:200
+
+2025-01-22 19:39:53,215 INFO isHealthCheck:true
+
+2025-01-22 19:39:53,215 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:39:53,215 INFO maxContent:10485760
+
+2025-01-22 19:40:17,764 INFO notifyConnectTimeout:100
+
+2025-01-22 19:40:17,771 INFO notifySocketTimeout:200
+
+2025-01-22 19:40:17,771 INFO isHealthCheck:true
+
+2025-01-22 19:40:17,771 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:40:17,772 INFO maxContent:10485760
+
+2025-01-22 19:42:08,801 INFO notifyConnectTimeout:100
+
+2025-01-22 19:42:08,810 INFO notifySocketTimeout:200
+
+2025-01-22 19:42:08,810 INFO isHealthCheck:true
+
+2025-01-22 19:42:08,810 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:42:08,810 INFO maxContent:10485760
+
+2025-01-22 19:42:22,608 INFO All dump page size is set to 50 according to mem limit 972 MB
+
+2025-01-22 19:42:22,615 WARN DumpService start
+
+2025-01-22 19:42:22,615 INFO start clear all config-info.
+
+2025-01-22 19:42:22,617 INFO clear all config-info success.
+
+2025-01-22 19:42:22,617 INFO clear all config-info-tenant success.
+
+2025-01-22 19:42:22,803 INFO start dump all config-info...
+
+2025-01-22 19:42:22,804 INFO success to  dump all config-info。
+
+2025-01-22 19:42:22,804 INFO start clear all config-info-gray.
+
+2025-01-22 19:42:22,804 INFO clear all config-info-gray success.
+
+2025-01-22 19:42:22,804 INFO clear all config-info-gray-tenant success.
+
+2025-01-22 19:48:59,479 INFO notifyConnectTimeout:100
+
+2025-01-22 19:48:59,496 INFO notifySocketTimeout:200
+
+2025-01-22 19:48:59,496 INFO isHealthCheck:true
+
+2025-01-22 19:48:59,497 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:48:59,497 INFO maxContent:10485760
+
+2025-01-22 19:49:53,678 INFO All dump page size is set to 50 according to mem limit 972 MB
+
+2025-01-22 19:49:53,702 WARN DumpService start
+
+2025-01-22 19:49:53,702 INFO start clear all config-info.
+
+2025-01-22 19:49:53,710 INFO clear all config-info success.
+
+2025-01-22 19:49:53,710 INFO clear all config-info-tenant success.
+
+2025-01-22 19:49:54,488 INFO start dump all config-info...
+
+2025-01-22 19:49:54,488 INFO success to  dump all config-info。
+
+2025-01-22 19:49:54,489 INFO start clear all config-info-gray.
+
+2025-01-22 19:49:54,489 INFO clear all config-info-gray success.
+
+2025-01-22 19:49:54,489 INFO clear all config-info-gray-tenant success.
+
+2025-01-22 19:53:55,508 INFO notifyConnectTimeout:100
+
+2025-01-22 19:53:55,515 INFO notifySocketTimeout:200
+
+2025-01-22 19:53:55,515 INFO isHealthCheck:true
+
+2025-01-22 19:53:55,515 INFO maxHealthCheckFailCount:12
+
+2025-01-22 19:53:55,515 INFO maxContent:10485760
+
+2025-01-22 19:54:08,135 INFO All dump page size is set to 50 according to mem limit 972 MB
+
+2025-01-22 19:54:08,140 WARN DumpService start
+
+2025-01-22 19:54:08,140 INFO start clear all config-info.
+
+2025-01-22 19:54:08,141 INFO clear all config-info success.
+
+2025-01-22 19:54:08,141 INFO clear all config-info-tenant success.
+
+2025-01-22 19:54:08,309 INFO start dump all config-info...
+
+2025-01-22 19:54:08,309 INFO success to  dump all config-info。
+
+2025-01-22 19:54:08,309 INFO start clear all config-info-gray.
+
+2025-01-22 19:54:08,309 INFO clear all config-info-gray success.
+
+2025-01-22 19:54:08,309 INFO clear all config-info-gray-tenant success.
+

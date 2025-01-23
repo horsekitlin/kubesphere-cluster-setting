@@ -1,0 +1,8 @@
+2025-01-22 19:57:35,150 INFO [dump] add formal task. groupKey=auth-service+passontw-demo-projects+passontw-demo-projects
+
+2025-01-22 19:57:35,155 INFO [dump] process formal task. groupKey=auth-service+passontw-demo-projects+passontw-demo-projects
+
+2025-01-22 19:57:35,337 INFO [dump] md5 changed, save to disk cache ,groupKey=auth-service+passontw-demo-projects+passontw-demo-projects, newMd5=10668f4474a5d391e9edc990c66c508b,oldMd5=
+
+2025-01-22 19:57:35,399 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=auth-service+passontw-demo-projects+passontw-demo-projects, newMd5=10668f4474a5d391e9edc990c66c508b,oldMd5=,lastModifiedTs=1737547055095
+
